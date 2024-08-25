@@ -1,0 +1,2 @@
+Prefix plugins/BamLorenz/example/
+Plugin BamLorenz inputfile parameters.txt outputfile none

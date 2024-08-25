@@ -1,0 +1,2 @@
+samfile	test.sam
+bamfile	test.bam
