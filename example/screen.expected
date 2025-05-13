@@ -24,7 +24,7 @@
 ***********************************************************************************
 [PluMA] Running Plugin: BamLorenz
 fraction_reads	[0.0, 0.4, 1.0]
-fraction_genome [0.0, 0.25, 1.0]
-roc     0.425
-total_sequenced_bases   10
-total_covered_positions_of_genome       8
+fraction_genome	[0.0, 0.25, 1.0]
+roc	0.425
+total_sequenced_bases	10
+total_covered_positions_of_genome	8
